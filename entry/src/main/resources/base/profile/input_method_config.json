@@ -1,0 +1,11 @@
+{
+  "subtypes": [
+    {
+      "icon": "$media:startIcon",
+      "id": "VikeyVi",
+      "label": "$string:subtype_vi",
+      "locale": "vi-VN",
+      "mode": "keyboard"
+    }
+  ]
+}

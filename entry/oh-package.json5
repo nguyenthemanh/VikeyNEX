@@ -1,0 +1,11 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Vikey input method",
+  "main": "",
+  "author": "",
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "libvikey.so": "file:./src/main/cpp/types/libvikey"
+  }
+}

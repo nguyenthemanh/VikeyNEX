@@ -1,0 +1,11 @@
+{
+  "app": {
+    "bundleName": "app.vikey.harmony",
+    "vendor": "vikey",
+    "versionCode": 10032,
+    "versionName": "1.0",
+    "buildVersion": "1",
+    "icon": "$media:app_icon",
+    "label": "$string:app_name"
+  }
+}

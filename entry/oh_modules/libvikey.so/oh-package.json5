@@ -1,0 +1,6 @@
+{
+  "name": "libvikey.so",
+  "types": "./index.d.ts",
+  "version": "1.0.0",
+  "description": "Vikey typing engine"
+}

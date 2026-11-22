@@ -1,0 +1,3 @@
+# Keep the native engine and the input method entry visible.
+-keep-file-name
+-keep-property-name
