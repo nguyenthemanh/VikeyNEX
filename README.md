@@ -18,7 +18,7 @@ HarmonyOS NEXT 6.0（API 20）以降向けの、ベトナム語 Telex と英語�
 
 ## Cài bản đã build
 
-Tải [Vikey-1.0.hap](https://github.com/nguyenthemanh/VikeyNEX/releases/latest) trong phần Releases. Máy cần HarmonyOS NEXT 6.0 trở lên (điện thoại, máy tính bảng hoặc 2-in-1).
+Tải file cài [release/Vikey-1.0.hap](https://github.com/nguyenthemanh/VikeyNEX/raw/main/release/Vikey-1.0.hap). Máy cần HarmonyOS NEXT 6.0 trở lên (điện thoại, máy tính bảng hoặc 2-in-1).
 
 1. Bật tùy chọn nhà phát triển.
 2. Chép file `.hap` vào máy và mở nó, hoặc cắm máy rồi chạy `hdc install -r Vikey-1.0.hap`.
@@ -28,7 +28,7 @@ Bản này được ký bằng chứng chỉ gỡ lỗi. Nếu máy báo thiết
 
 ## Install the built package
 
-Download [Vikey-1.0.hap](https://github.com/nguyenthemanh/VikeyNEX/releases/latest) from Releases. The device must be HarmonyOS NEXT 6.0 or later (phone, tablet, or 2-in-1).
+Download the installer [release/Vikey-1.0.hap](https://github.com/nguyenthemanh/VikeyNEX/raw/main/release/Vikey-1.0.hap). The device must be HarmonyOS NEXT 6.0 or later (phone, tablet, or 2-in-1).
 
 1. Turn on developer options.
 2. Copy the `.hap` onto the device and open it, or connect the device and run `hdc install -r Vikey-1.0.hap`.
@@ -38,7 +38,7 @@ This package is signed with a debug certificate. If the device says it is not au
 
 ## 安装已构建的包
 
-从 Releases 下载 [Vikey-1.0.hap](https://github.com/nguyenthemanh/VikeyNEX/releases/latest)。设备需为 HarmonyOS NEXT 6.0 或更高版本（手机、平板或二合一设备）。
+下载安装包 [release/Vikey-1.0.hap](https://github.com/nguyenthemanh/VikeyNEX/raw/main/release/Vikey-1.0.hap)。设备需为 HarmonyOS NEXT 6.0 或更高版本（手机、平板或二合一设备）。
 
 1. 打开开发者选项。
 2. 把 `.hap` 拷到设备上并打开，或连接设备后执行 `hdc install -r Vikey-1.0.hap`。
@@ -48,7 +48,7 @@ This package is signed with a debug certificate. If the device says it is not au
 
 ## ビルド済みパッケージのインストール
 
-Releases から [Vikey-1.0.hap](https://github.com/nguyenthemanh/VikeyNEX/releases/latest) をダウンロードします。HarmonyOS NEXT 6.0 以降のスマホ、タブレット、または 2-in-1 が必要です。
+インストール用ファイル [release/Vikey-1.0.hap](https://github.com/nguyenthemanh/VikeyNEX/raw/main/release/Vikey-1.0.hap) をダウンロードします。HarmonyOS NEXT 6.0 以降のスマホ、タブレット、または 2-in-1 が必要です。
 
 1. 開発者オプションをオンにします。
 2. `.hap` を端末にコピーして開くか、端末を接続して `hdc install -r Vikey-1.0.hap` を実行します。
