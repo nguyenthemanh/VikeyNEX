@@ -18,3 +18,4 @@ signing
 tools/*.jpeg
 tools/*.jpg
 tools/*.json
+/dist
